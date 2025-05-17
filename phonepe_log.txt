@@ -1,0 +1,68 @@
+2025-03-10 01:18:36 - Response: Array
+(
+    [success] => 
+    [code] => TOO_MANY_REQUESTS
+    [message] => Too many requests. Please try again.
+    [data] => Array
+        (
+        )
+
+)
+
+2025-03-10 01:18:38 - Response: Array
+(
+    [success] => 
+    [code] => TOO_MANY_REQUESTS
+    [message] => Too many requests. Please try again.
+    [data] => Array
+        (
+        )
+
+)
+
+2025-03-10 01:18:40 - Response: Array
+(
+    [success] => 
+    [code] => TOO_MANY_REQUESTS
+    [message] => Too many requests. Please try again.
+    [data] => Array
+        (
+        )
+
+)
+
+2025-03-10 01:18:44 - FINAL ERROR: Error: Too many requests. Please try again.
+2025-03-10 01:20:03 - Response: Array
+(
+    [success] => 
+    [code] => TOO_MANY_REQUESTS
+    [message] => Too many requests. Please try again.
+    [data] => Array
+        (
+        )
+
+)
+
+2025-03-10 01:20:04 - Response: Array
+(
+    [success] => 
+    [code] => TOO_MANY_REQUESTS
+    [message] => Too many requests. Please try again.
+    [data] => Array
+        (
+        )
+
+)
+
+2025-03-10 01:20:06 - Response: Array
+(
+    [success] => 
+    [code] => TOO_MANY_REQUESTS
+    [message] => Too many requests. Please try again.
+    [data] => Array
+        (
+        )
+
+)
+
+2025-03-10 01:20:10 - FINAL ERROR: Error: Too many requests. Please try again.
